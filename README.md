@@ -1,1 +1,1 @@
-# infinite_table
+# A infinite table example
